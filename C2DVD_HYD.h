@@ -5,8 +5,8 @@ using namespace std;
 
 #define Kdataoffsetnum					1441
 #define Kmeasurearea					0.01			//m*m
-typedef short int						int16_t;
-typedef int								int32_t;
+typedef short int					int16_t;
+typedef int						int32_t;
 typedef unsigned short int				uint16_t;
 typedef unsigned int					uint32_t;
 
